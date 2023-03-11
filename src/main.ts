@@ -8,7 +8,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   standalone: true,
   imports: [CommonModule],
   template: `
-    <h1>Hello from aa bb cc {{name}}!</h1>
+    <h1>Hello from aa bb cc dd {{name}}!</h1>
     <a target="_blank" href="https://angular.io/start">
       Learn more about Angulaa - testing
     </a>
